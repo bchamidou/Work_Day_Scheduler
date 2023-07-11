@@ -7,7 +7,7 @@ This repository create a simple calendar application that allows a user to save 
 Create a simple calendar application that allows the user to save events for each hour of the day.  
  The calendar show the hours from 9am to 5pm, user click in the box and add your text, the save button will save the text, even upon refresh or closing the browser and coming back. The delete button will delete the item from the calendar completely. The blocks of time will recognize if they are in the past, present or future and are color coded thusly.
 
-Technologies Used: HTML, Bootstrap, CSS, JavaScript, moment.js, jQuery
+Technologies Used: HTML, Bootstrap, CSS, JavaScript, day.js, jQuery
 
 Day.js (https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
 
